@@ -35,7 +35,7 @@ import org.kie.trustyai.explainability.Config;
 import org.kie.trustyai.explainability.local.lime.LimeConfig;
 import org.kie.trustyai.explainability.local.lime.LimeExplainer;
 import org.kie.trustyai.explainability.local.lime.optim.LimeConfigOptimizer;
-import org.kie.trustyai.explainability.metrics.ExplainabilityMetrics;
+import org.kie.trustyai.metrics.explainability.ExplainabilityMetrics;
 import org.kie.trustyai.explainability.model.DataDistribution;
 import org.kie.trustyai.explainability.model.Feature;
 import org.kie.trustyai.explainability.model.FeatureFactory;
